@@ -1,0 +1,30 @@
+// // // // // var a = 10;
+// // // // // function greet() {
+// // // // //   console.log("Varshith");
+// // // // // }
+
+// // // // // console.log(a);
+// // // // // console.log(greet);
+// // // // // greet();
+
+// // // // console.log(a);
+// // // // const a = 20;
+
+// // // console.log(greet);
+// // // greet();
+
+// // // function greet() {
+// // //   console.log("Varshith");
+// // // }
+
+// // console.log(greet);
+
+// // const greet = function () {
+// //   console.log("Varshith");
+// // };
+
+// console.log(local);
+
+// const local = () => {
+//   console.log("Varshith");
+// };
